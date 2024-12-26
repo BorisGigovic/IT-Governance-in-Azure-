@@ -1,4 +1,4 @@
-# IT-Governance-in-Azure
+# IT Governance in Azure
 Microsoft Azure offers a robust set of tools and services that enable organizations to achieve innovation, enhance agility, and reduce costs. Among these offerings, IT governance in Azure plays a critical role in ensuring that cloud resources are managed effectively, securely, and in compliance with regulatory requirements. In this comprehensive guide, we will explore what IT governance in Azure is, how it is used, why it is necessary, and how it works. We will also provide detailed information on the various components and tools available in Azure for effective IT governance. 
 
 ## What is IT Governance in Azure? 
